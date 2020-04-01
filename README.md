@@ -21,8 +21,12 @@ MekanismTools | 9.8.3.390 | [Curseforge](https://www.curseforge.com/minecraft/mc
 Nutrition | 4.6.1 | [Github](https://github.com/WesCook/Nutrition/releases)
 Pam's HarvestCraft | zg | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files)
 Flux Networks | 4.0.14 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/flux-networks/files)
+FTB Library | 5.4.4.5 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftblib/files)
+FTB Utilities | 5.4.0.124 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftb-utilities/files)
+FTB Backups | 1.1.0.1 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups/files)
 UniDict | 2.9.6 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/unidict/files)
 Quark | r1.6-178 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark/files)
 TombManyGraves | Custom-4.2.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tomb-many-graves-2/files)
+YABBA | Custom-1.1.2.54 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yabba/files)
 
 
