@@ -6,6 +6,7 @@ All mods are for 1.12.2
 ## Updated mods
 Mod | Version | Link
 --- | --- | ---
+AE2 Wireless Terminal Library | 1.0.34 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib/files)
 Backpacks | 3.0.2 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/forge-backpacks/files)
 Cooking for BlockHeads | 6.5.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files)
 Cosmetic Armor Reworked | v4 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2660068)
