@@ -19,6 +19,7 @@ MekanismGenerators | 9.8.3.390 | [Curseforge](https://www.curseforge.com/minecra
 MekanismOres | 2.0.13 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanismores/files)
 MekanismTools | 9.8.3.390 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files)
 Nutrition | 4.6.1 | [Github](https://github.com/WesCook/Nutrition/releases)
+p455w0rd's Library | 2.3.161 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library/files)
 Pam's HarvestCraft | zg | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files)
 Flux Networks | 4.0.14 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/flux-networks/files)
 FTB Library | 5.4.4.5 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ftblib/files)
