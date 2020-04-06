@@ -11,6 +11,7 @@ Backpacks | 3.0.2 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fo
 Cooking for BlockHeads | 6.5.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files)
 Cosmetic Armor Reworked | v4 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2660068)
 Cyclic | 1.9.21 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cyclic/files)
+Industrial Craft | 2-2.8.196-ex112 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files)
 LLibrary | 1.7.19 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/llibrary/files)
 MalisisBlocks | 6.1.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/malisisblocks/files)
 MalisisCore | 6.5.1 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/malisiscore/files)
@@ -29,6 +30,7 @@ FTB Backups | 1.1.0.1 | [Curseforge](https://www.curseforge.com/minecraft/mc-mod
 UniDict | 2.9.6 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/unidict/files)
 Quark | r1.6-178 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark/files)
 TombManyGraves | Custom-4.2.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tomb-many-graves-2/files)
+Wireless Crafting Terminal | 3.12.97 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/files)
 YABBA | Custom-1.1.2.54 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yabba/files)
 
 
