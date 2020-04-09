@@ -10,6 +10,7 @@ Backpacks | 3.0.2 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fo
 Cooking for BlockHeads | 6.5.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files)
 Cosmetic Armor Reworked | v4 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2660068)
 Cyclic | 1.9.21 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cyclic/files)
+ExtraCells2 | 2.6.5 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/extracells2/files)
 LLibrary | 1.7.19 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/llibrary/files)
 MalisisBlocks | 6.1.0 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/malisisblocks/files)
 MalisisCore | 6.5.1 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/malisiscore/files)
